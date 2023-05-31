@@ -1,4 +1,4 @@
-# TPM-TUGASAKHIR
+# TPM-TugasAkhir
 [Teknologi dan Pemrograman Mobile]
 
 Pengumpulan Tugas Akhir : Amiibo App
